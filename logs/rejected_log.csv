@@ -1,1 +1,8 @@
 Time,Action,Symbol,Strategy,Trade_ID,BTC_Trend,ADX_1h,ATR_Pct,Micro_Score,Micro_Vol_USDT,Is_Burst,Is_Compressed,Vol_Rank,EMA_Extension,Entry_Efficiency,Config_JSON,Entry_Price,Leverage,Reject_Reason,Exit_Reason,Exit_Price,PnL_USDT,Max_Favorable_Price,Max_Adverse_Price,SL_Dist_ATR,Hour_TW,Weekday,Pullback_Vol_Ratio,Eval_15m_Pct,Eval_1h_Pct,Eval_4h_Pct
+2026-05-18 19:42:21,REJECTED,NEAR/USDT:USDT,PULLBACK,,,26.08,0.0061,0,322884.0,1,0,0.0,0.0,0.0,{},1.521,0,誘多防護 ls_ratio=1.72,,0.0,0.0,0.0,0.0,0.0,19,0,0.0,,,
+2026-05-18 23:12:23,REJECTED,DYM/USDT:USDT,BREAKOUT,,,31.08,0.0246,0,1055554.0,1,0,0.0,0.0,0.0,{},0.0249,0,誘多防護 ls_ratio=1.92,,0.0,0.0,0.0,0.0,0.0,23,0,0.0,,,
+2026-05-19 00:40:21,REJECTED,RAVE/USDT:USDT,PULLBACK,,,26.75,0.0127,0,428140.0,1,0,0.0,0.0,0.0,{},0.583,0,誘多防護 ls_ratio=2.92,,0.0,0.0,0.0,0.0,0.0,0,1,0.0,,,
+2026-05-19 01:17:22,REJECTED,TOWNS/USDT:USDT,BREAKOUT,,,30.54,0.0353,0,3344074.0,1,0,0.0,0.0,0.0,{},0.003506,0,誘多防護 ls_ratio=1.64,,0.0,0.0,0.0,0.0,0.0,1,1,0.0,,,
+2026-05-19 05:11:23,REJECTED,DYM/USDT:USDT,BREAKOUT,,,35.51,0.0241,0,1510823.0,1,0,0.0,0.0,0.0,{},0.02443,0,誘多防護 ls_ratio=1.90,,0.0,0.0,0.0,0.0,0.0,5,1,0.0,,,
+2026-05-19 06:08:23,REJECTED,ADA/USDT:USDT,BREAKOUT,,,35.78,0.0047,0,345359.0,1,0,0.0,0.0,0.0,{},0.2523,0,誘多防護 ls_ratio=2.10,,0.0,0.0,0.0,0.0,0.0,6,1,0.0,,,
+2026-05-19 07:44:23,REJECTED,SAND/USDT:USDT,BREAKOUT,,,37.99,0.0058,0,842918.0,1,0,0.0,0.0,0.0,{},0.07267,0,誘多防護 ls_ratio=1.52,,0.0,0.0,0.0,0.0,0.0,7,1,0.0,,,
